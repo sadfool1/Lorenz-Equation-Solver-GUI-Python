@@ -1,7 +1,6 @@
 """
 Author: James Morillo
 SPMS
-PH4419-COMPUTATIONAL PHYSICS Final Project 
 Project title: "Lorenz Equations App"
 """
 
